@@ -554,28 +554,22 @@ In addition and as a secondary, the Resolution mandated an advisory role also fo
 4. The forensic science services uncompromising & Geese under the Development Division grew over a period and a separate Directorate of Forensic Sciences under the BPR&D came into existence in 1983.
 <br><br>
 5. Further in 1995 Government of India decided to entrust issues relating to Correctional Administration Work to the BPR&D so that problems relating to prisons and implementation of deemed prison reforms can be taken up by the Bureau in a cohesive manner. This set up is operating out of the existing manpower resources.
-<br><br>
-                    
-
-                        </h2>
-                    </div>
-                    <div class="col-sm-3 mt-2">
-                        <ul class="nav nav-tabs nav-justified" style="background-color:#fffbfb; font-size:larger;">
-                            <li class="nav-item">
-                              <a class="nav-link active" href="#">Print</a>
-                            </li>
-                            
-                        </ul>
-                      
-                              
-                            </div>
-                        </div>
-                        
-                                </li>
+<br><br>    
+              </h2>
+              </div>
+              <div class="col-sm-3 mt-2">
+                   <ul class="nav nav-tabs nav-justified" style="background-color:#fffbfb; font-size:larger;">
+                     <li class="nav-item">
+                      <a class="nav-link active" href="#">Print</a>
+                          </li>
                             </ul>
-                        </div>
-                    </div>  
-                                </div>
+                          </div>
+                        </div>  
+                          </li>
+                          </ul>
+                      </div>
+                     </div>  
+                 </div>
             </div>
         </body>
         </html>
@@ -882,11 +876,9 @@ In addition and as a secondary, the Resolution mandated an advisory role also fo
                         </div>
                         <div class="container-fluid rounded border bg-light text-center p-2 mt-2 mb-2" style="height: 300px;" >
                             <nav class="navbar navbar-expand-sm bg-light ">
-                          
-                          
-                                   </div>
-                   
-                </div>
+                                                
+                               </div>
+                     </div>
             </div>
         </body>
         </html>
